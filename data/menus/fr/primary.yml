@@ -8,13 +8,6 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Revues scientifiques
-  target: "/revues-scientifiques/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/journals"
-  file: content/fr/journals/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
@@ -22,6 +15,13 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
+- title: Revues scientifiques
+  target: "/revues-scientifiques/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/journals"
+  file: content/fr/journals/_index.html
 - title: Organisations
   target: "/organisations/"
   kind: page
